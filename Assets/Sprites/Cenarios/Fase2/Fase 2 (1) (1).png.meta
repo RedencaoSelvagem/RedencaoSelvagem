@@ -1,9 +1,16 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 704e0829e3c9e75408305c23af0759ae
 =======
 guid: 1c27bb27e1cbbb744a10d2bf5046d5ac
 >>>>>>> 3c3dda54fc646bee28d4f76ea86564805fabdcc5
+=======
+guid: 58d39bf0d86996f4e9060f4e2b0b86bf
+=======
+guid: 1c27bb27e1cbbb744a10d2bf5046d5ac
+>>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
+>>>>>>> d87a761c1dad07365092861c3cd48aded44e1dee
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -52,7 +59,11 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
+<<<<<<< HEAD
+  spriteMeshType: 0
+=======
   spriteMeshType: 1
+>>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -76,10 +87,17 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
+<<<<<<< HEAD
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+=======
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
+>>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -151,7 +169,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
+    nameFileIdTable:
+      Fase 2 (1) (1)_0: 7681385628374435278
+=======
     nameFileIdTable: {}
+>>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
