@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cadd8c4f67c83244085db4c5e114f88d
+guid: 587ac3426fbda2846abdd3134f388f19
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -124,7 +124,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Frame_0
     originalName: 
-    pivot: {x: 0.4666667, y: 0}
+    pivot: {x: 0.4473684, y: -0.024193548}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -132,9 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 60
-      height: 64
-    spriteID: 1c655aaccd19bcb4da28efeeceda16dd
+      width: 114
+      height: 124
+    spriteID: 9be39031169dbbe4f881bd707ba52d6d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -145,17 +145,17 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Frame_1
     originalName: 
-    pivot: {x: 0.4666667, y: 0}
+    pivot: {x: 0.4473684, y: -0.024193548}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
       x: 4
-      y: 76
-      width: 60
-      height: 64
-    spriteID: 8282d7d977bb4784a820830b8b796cfd
+      y: 136
+      width: 114
+      height: 124
+    spriteID: 84d4537319dc92145b39408d3c83b6d4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -163,20 +163,20 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 76}
+    uvTransform: {x: 4, y: 136}
   - name: Frame_2
     originalName: 
-    pivot: {x: 0.4666667, y: 0}
+    pivot: {x: 0.4473684, y: -0.024193548}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
       x: 4
-      y: 148
-      width: 60
-      height: 64
-    spriteID: 9993f9774678f654298f6fa0265c2fdf
+      y: 268
+      width: 114
+      height: 124
+    spriteID: d8864d7e0e9496845b9d7cfe3dabe756
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -184,20 +184,20 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 148}
+    uvTransform: {x: 4, y: 268}
   - name: Frame_3
     originalName: 
-    pivot: {x: 0.4666667, y: 0}
+    pivot: {x: 0.4473684, y: -0.024193548}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
-      x: 72
+      x: 126
       y: 4
-      width: 60
-      height: 64
-    spriteID: 52de6f54966058749be11327d66684de
+      width: 114
+      height: 124
+    spriteID: 628fa7643b0822b42abfd28379cfcbbb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -205,20 +205,20 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 72, y: 4}
+    uvTransform: {x: 126, y: 4}
   - name: Frame_4
     originalName: 
-    pivot: {x: 0.4666667, y: 0}
+    pivot: {x: 0.4473684, y: -0.024193548}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
-      x: 72
-      y: 76
-      width: 60
-      height: 64
-    spriteID: e9245a363e7219b4eae64c44928a5e6b
+      x: 126
+      y: 136
+      width: 114
+      height: 124
+    spriteID: 655f80b4d062070408a3f333ae58da4d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -226,12 +226,33 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 72, y: 76}
+    uvTransform: {x: 126, y: 136}
+  - name: Frame_5
+    originalName: 
+    pivot: {x: 0.4473684, y: -0.024193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 268
+      width: 114
+      height: 124
+    spriteID: bd61619edd7a83746a49f8a1d057ffe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 268}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1829872389
-    name: Atirador(Idle)
+    guid: -1647674148
+    name: Boss Transformado(Dano)
     layerFlags: 0
     layerType: 0
     blendMode: 0
@@ -240,47 +261,56 @@ ScriptedImporter:
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 4
-        y: 0
-        width: 60
-        height: 64
-      spriteId: 1c655aaccd19bcb4da28efeeceda16dd
+        x: 13
+        y: 3
+        width: 114
+        height: 124
+      spriteId: 9be39031169dbbe4f881bd707ba52d6d
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
-        x: 4
-        y: 0
-        width: 60
-        height: 64
-      spriteId: 8282d7d977bb4784a820830b8b796cfd
+        x: 13
+        y: 3
+        width: 114
+        height: 124
+      spriteId: 84d4537319dc92145b39408d3c83b6d4
     - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
-        x: 4
-        y: 0
-        width: 60
-        height: 64
-      spriteId: 9993f9774678f654298f6fa0265c2fdf
+        x: 13
+        y: 3
+        width: 114
+        height: 124
+      spriteId: d8864d7e0e9496845b9d7cfe3dabe756
     - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
-        x: 4
-        y: 0
-        width: 60
-        height: 64
-      spriteId: 52de6f54966058749be11327d66684de
+        x: 13
+        y: 3
+        width: 114
+        height: 124
+      spriteId: 628fa7643b0822b42abfd28379cfcbbb
     - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
-        x: 4
-        y: 0
-        width: 60
-        height: 64
-      spriteId: e9245a363e7219b4eae64c44928a5e6b
+        x: 13
+        y: 3
+        width: 114
+        height: 124
+      spriteId: 655f80b4d062070408a3f333ae58da4d
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 3
+        width: 114
+        height: 124
+      spriteId: bd61619edd7a83746a49f8a1d057ffe4
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -299,4 +329,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 128, y: 128}
