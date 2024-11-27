@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638683170588391440
+  platformSettingsDirtyTick: 638683182534911124
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -179,7 +179,7 @@ ScriptedImporter:
   - name: DefaultTexturePlatform
     overridden: 0
     ignorePlatformSupport: 0
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 0
