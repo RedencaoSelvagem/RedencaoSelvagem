@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 0c53f60544f71c545bfb5e3d74a3903a
-=======
-guid: e266643664ad77243b8b997a9b3af595
->>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
+guid: bc61c943e3b503d46b7626a958984347
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -36,7 +32,7 @@ ScriptedImporter:
     sRGBTexture: 1
     spriteMode: 2
     spriteExtrude: 1
-    spriteMeshType: 1
+    spriteMeshType: 0
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
     spritePixelsToUnits: 100
@@ -101,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638683166328776534
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -126,9 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Boss Lanca chamas(Sprite)
+  - name: tucano
     originalName: 
-    pivot: {x: 0.42465755, y: -0.04494382}
+    pivot: {x: 0.5081967, y: -0.20238096}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -136,13 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 73
-      height: 89
-<<<<<<< HEAD
-    spriteID: 45804890f8eef2b4493f09359ffd0757
-=======
-    spriteID: aefc2906737fe954096d02eeb5fafeee
->>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
+      width: 61
+      height: 84
+    spriteID: 619122b2db85f9947aab0ae26211b5c9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -154,25 +146,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1823626695
-    name: Boss Lanca chamas(Sprite)
+    guid: -1500481782
+    name: tucano
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Boss Lanca chamas(Sprite)
+    - name: tucano
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 17
-        y: 4
-        width: 73
-        height: 89
-<<<<<<< HEAD
-      spriteId: 45804890f8eef2b4493f09359ffd0757
-=======
-      spriteId: aefc2906737fe954096d02eeb5fafeee
->>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
+        x: 10
+        y: 17
+        width: 61
+        height: 84
+      spriteId: 619122b2db85f9947aab0ae26211b5c9
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -188,7 +176,43 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 96, y: 96}
+  canvasSize: {x: 82, y: 115}
