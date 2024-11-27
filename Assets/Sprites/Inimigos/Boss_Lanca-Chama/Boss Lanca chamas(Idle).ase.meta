@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d279bcc213f408f44ae6398ccc4990e7
+guid: 28221cc6735d0464c95d97600cc65675
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -32,7 +32,7 @@ ScriptedImporter:
     sRGBTexture: 1
     spriteMode: 2
     spriteExtrude: 1
-    spriteMeshType: 0
+    spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
     spritePixelsToUnits: 100
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638683170831870973
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -122,9 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: "CAMAP\xDA PIXELADO"
+  - name: Frame_0
     originalName: 
-    pivot: {x: -1, y: -1.2857144}
+    pivot: {x: 0.42465755, y: -0.04494382}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -132,9 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 16
-      height: 14
-    spriteID: 5d8d675dfd3a4b6418e0f4ede6c75ebb
+      width: 73
+      height: 89
+    spriteID: 6637624d040a21143b45dcc8171eadba
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -143,24 +143,174 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: Frame_1
+    originalName: 
+    pivot: {x: 0.42465755, y: -0.04494382}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 4
+      width: 73
+      height: 89
+    spriteID: c94ab00e8a769444486456fceb74a33e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 4}
+  - name: Frame_2
+    originalName: 
+    pivot: {x: 0.43661973, y: -0.045454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 101
+      width: 71
+      height: 88
+    spriteID: ff95bc9a8c13ef74495b0d97216a49c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 101}
+  - name: Frame_3
+    originalName: 
+    pivot: {x: 0.42465755, y: -0.045454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 101
+      width: 73
+      height: 88
+    spriteID: a6db001033ac5eb4d89eb446e149ed20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 101}
+  - name: Frame_4
+    originalName: 
+    pivot: {x: 0.42465755, y: -0.04494382}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 4
+      width: 73
+      height: 89
+    spriteID: de8bf241f5bad5a4cbdc27c611a6f47c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 4}
+  - name: Frame_5
+    originalName: 
+    pivot: {x: 0.42465755, y: -0.04494382}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 101
+      width: 73
+      height: 89
+    spriteID: 8f1302e33c11fa34194368952456d056
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 101}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 189363652
-    name: "CAMAP\xDA PIXELADO"
+    guid: -2050331540
+    name: Boss Lanca chamas(Idle)
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: "CAMAP\xDA PIXELADO"
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 48
-        y: 18
-        width: 16
-        height: 14
-      spriteId: 5d8d675dfd3a4b6418e0f4ede6c75ebb
+        x: 17
+        y: 4
+        width: 73
+        height: 89
+      spriteId: 6637624d040a21143b45dcc8171eadba
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 4
+        width: 73
+        height: 89
+      spriteId: c94ab00e8a769444486456fceb74a33e
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 4
+        width: 71
+        height: 88
+      spriteId: ff95bc9a8c13ef74495b0d97216a49c4
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 4
+        width: 73
+        height: 88
+      spriteId: a6db001033ac5eb4d89eb446e149ed20
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 4
+        width: 73
+        height: 89
+      spriteId: de8bf241f5bad5a4cbdc27c611a6f47c
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 4
+        width: 73
+        height: 89
+      spriteId: 8f1302e33c11fa34194368952456d056
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -176,43 +326,7 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 4096
-    resizeAlgorithm: 1
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: WebGL
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 96, y: 96}
