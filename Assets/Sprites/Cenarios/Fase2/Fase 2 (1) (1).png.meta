@@ -1,26 +1,25 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
-guid: 704e0829e3c9e75408305c23af0759ae
-=======
-guid: 1c27bb27e1cbbb744a10d2bf5046d5ac
->>>>>>> 3c3dda54fc646bee28d4f76ea86564805fabdcc5
-=======
-guid: 58d39bf0d86996f4e9060f4e2b0b86bf
-=======
-guid: 1c27bb27e1cbbb744a10d2bf5046d5ac
->>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
->>>>>>> d87a761c1dad07365092861c3cd48aded44e1dee
+guid: 4fec1770fc913ee44b4658034b5bcec1
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 7681385628374435278
     second: Fase 2 (1) (1)_0
+=======
+guid: 704e0829e3c9e75408305c23af0759ae
+TextureImporter:
+  internalIDToNameTable: []
+>>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
+<<<<<<< HEAD
     enableMipMap: 0
+=======
+    enableMipMap: 1
+>>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -51,6 +50,7 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
+<<<<<<< HEAD
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -58,22 +58,34 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
-<<<<<<< HEAD
-  spriteMeshType: 0
 =======
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+>>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
+  spriteExtrude: 1
   spriteMeshType: 1
->>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
+<<<<<<< HEAD
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+=======
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 2
+>>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
   singleChannelComponent: 0
   flipbookRows: 1
   flipbookColumns: 1
@@ -81,23 +93,29 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
+<<<<<<< HEAD
   applyGammaDecoding: 0
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-<<<<<<< HEAD
-    maxTextureSize: 4096
-    resizeAlgorithm: 1
-    textureFormat: -1
-    textureCompression: 0
-=======
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
->>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
+=======
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 2
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+>>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,7 +128,11 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< HEAD
     textureCompression: 1
+=======
+    textureCompression: 0
+>>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -123,7 +145,11 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< HEAD
     textureCompression: 1
+=======
+    textureCompression: 0
+>>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -133,6 +159,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites:
     - serializedVersion: 2
       name: Fase 2 (1) (1)_0
@@ -156,6 +183,9 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+    sprites: []
+>>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     outline: []
     customData: 
     physicsShape: []
@@ -169,12 +199,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< HEAD
-    nameFileIdTable:
-      Fase 2 (1) (1)_0: 7681385628374435278
-=======
     nameFileIdTable: {}
->>>>>>> d9a86daf037c10b3ca06b2d3abeda099872207d4
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
