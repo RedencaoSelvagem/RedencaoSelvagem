@@ -605,7 +605,7 @@ GameObject:
   - component: {fileID: 1900608659}
   - component: {fileID: 1900608661}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: TextoIniciar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -715,7 +715,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -2.0422363, w: 0}
+  m_margin: {x: 0, y: 0, z: -2.0422363, w: 18.240664}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -739,7 +739,11 @@ Animator:
   m_GameObject: {fileID: 1900608657}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
+<<<<<<< HEAD
+  m_Controller: {fileID: 9100000, guid: 0bf3bc8a1d0530c4184eedd6701b9990, type: 2}
+=======
   m_Controller: {fileID: 9100000, guid: e16561aff7ebf98469a0898bc2a172d2, type: 2}
+>>>>>>> b54e6201767c30aa1d5ce1d10601d9d0b9b70c6d
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
