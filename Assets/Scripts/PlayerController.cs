@@ -3,11 +3,40 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public Vector2 playerDirection;
+
     private bool playerFacingRight = true;
+
+    private Animator playerAnimator;
+
+    private bool isRunning;
+
+    public float playerSpeed = 1f;
+
+    private Rigidbody2D playerRigidBody;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        PlayerMove();
+        // Obtem e inicializa as propriedades do RigidBody2D
+        playerRigidBody = GetComponent<Rigidbody2D>();
+
+        // Obtem e inicializa as propriedades do animator
+        playerAnimator = GetComponent<Animator>();
+    }
+
+    private void FixedUpdate()
+    {
+        // Verificar se o Player está em movimento
+        if (playerDirection.x != 0 || playerDirection.y != 0)
+        {
+            isRunning = true;
+        }
+        else
+        {
+            isRunning = false;
+        }
+
+        playerRigidBody.MovePosition(playerRigidBody.position + playerSpeed * Time.fixedDeltaTime * playerDirection);
     }
 
     void PlayerMove()
@@ -28,6 +57,12 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    void UpdateAnimator()
+    {
+        // Definir o valor do parâmetro do animator, igual à propriedade isWalking
+        playerAnimator.SetBool("isRunning", isRunning);
+    }
+
     void Flip()
     {
         // Vai girar o sprite do player em 180º no eixo Y
@@ -43,6 +78,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        PlayerMove();
+        UpdateAnimator();
     }
 }

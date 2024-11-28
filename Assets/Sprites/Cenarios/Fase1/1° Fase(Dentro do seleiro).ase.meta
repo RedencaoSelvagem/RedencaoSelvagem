@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0fdffeb4fedabba468eb84d73a179530
+guid: 54ef82e6676675b40ad82ca6097d2513
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -122,9 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Atirador(Sprite)
+  - name: "1\xB0 Fase(Dentro do seleiro)"
     originalName: 
-    pivot: {x: 0.4666667, y: 0}
+    pivot: {x: 0.5001666, y: 0.0025974028}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -132,13 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 60
-      height: 64
-<<<<<<< HEAD
-    spriteID: 7618d179a8bc304469c4e05283a7147c
-=======
-    spriteID: 8a8fcb39d780a454781fbf55be18a966
->>>>>>> b54e6201767c30aa1d5ce1d10601d9d0b9b70c6d
+      width: 3001
+      height: 385
+    spriteID: 5c952f64bc27f4049a69a04f4e0cb848
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -150,25 +146,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -2025227052
-    name: Atirador(Sprite)
+    guid: 462647983
+    name: "1\xB0 Fase(Dentro do seleiro)"
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Atirador(Sprite)
+    - name: "1\xB0 Fase(Dentro do seleiro)"
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 4
-        y: 0
-        width: 60
-        height: 64
-<<<<<<< HEAD
-      spriteId: 7618d179a8bc304469c4e05283a7147c
-=======
-      spriteId: 8a8fcb39d780a454781fbf55be18a966
->>>>>>> b54e6201767c30aa1d5ce1d10601d9d0b9b70c6d
+        x: -1
+        y: -1
+        width: 3001
+        height: 385
+      spriteId: 5c952f64bc27f4049a69a04f4e0cb848
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -187,4 +179,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 3000, y: 384}

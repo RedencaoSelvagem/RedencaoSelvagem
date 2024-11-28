@@ -251,7 +251,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.718075, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -367,7 +367,7 @@ RectTransform:
   m_GameObject: {fileID: 1020856189}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.173, y: 1.1439999, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2039458509}
@@ -561,7 +561,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 1828716543
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -641,7 +641,11 @@ Animator:
   m_GameObject: {fileID: 1900608657}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
+<<<<<<< HEAD
   m_Controller: {fileID: 9100000, guid: 0bf3bc8a1d0530c4184eedd6701b9990, type: 2}
+=======
+  m_Controller: {fileID: 9100000, guid: e16561aff7ebf98469a0898bc2a172d2, type: 2}
+>>>>>>> b54e6201767c30aa1d5ce1d10601d9d0b9b70c6d
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
