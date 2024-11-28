@@ -687,11 +687,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 1dc98038-a6e9-42ee-b786-39fa41f1ba8d
+  cloudProjectId: a37b30ea-7ca5-47b4-85b6-6d09c0058948
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: RedencaoSelvagem 2024-11-26_15-41-19
-  organizationId: danmk9
+  projectName: My project 2024-11-27_14-42-07
+  organizationId: danimito7
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
