@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b4d66c6c8cc3a004e878b2eb4c971a3c
+guid: 54ef82e6676675b40ad82ca6097d2513
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -122,9 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: "1\xB0 Fase(Dentro do seleiro)"
     originalName: 
-    pivot: {x: 0.43274853, y: -0.5121951}
+    pivot: {x: 0.5001666, y: 0.0025974028}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -132,9 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 171
-      height: 41
-    spriteID: a25849077922dcf4b87fff2a044b05e5
+      width: 3001
+      height: 385
+    spriteID: 5c952f64bc27f4049a69a04f4e0cb848
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -143,114 +143,24 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_1
-    originalName: 
-    pivot: {x: 0.43274853, y: -0.5609756}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 53
-      width: 171
-      height: 41
-    spriteID: aceb8d73c3572434f84c7a74279b89f4
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 53}
-  - name: Frame_2
-    originalName: 
-    pivot: {x: 0.43274853, y: -0.5121951}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 102
-      width: 171
-      height: 41
-    spriteID: 183f05f5504f342469356d01e54cccec
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 102}
-  - name: Frame_3
-    originalName: 
-    pivot: {x: 0.43274853, y: -0.46341464}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 151
-      width: 171
-      height: 41
-    spriteID: 8e4d6c767ea94f846b8638d9ce7a7aa3
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 151}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -746658074
-    name: Barcos
+    guid: 462647983
+    name: "1\xB0 Fase(Dentro do seleiro)"
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: "1\xB0 Fase(Dentro do seleiro)"
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 36
-        y: 21
-        width: 171
-        height: 41
-      spriteId: a25849077922dcf4b87fff2a044b05e5
-    - name: Frame_1
-      frameIndex: 1
-      additiveSortOrder: 0
-      cellRect:
-        x: 36
-        y: 23
-        width: 171
-        height: 41
-      spriteId: aceb8d73c3572434f84c7a74279b89f4
-    - name: Frame_2
-      frameIndex: 2
-      additiveSortOrder: 0
-      cellRect:
-        x: 36
-        y: 21
-        width: 171
-        height: 41
-      spriteId: 183f05f5504f342469356d01e54cccec
-    - name: Frame_3
-      frameIndex: 3
-      additiveSortOrder: 0
-      cellRect:
-        x: 36
-        y: 19
-        width: 171
-        height: 41
-      spriteId: 8e4d6c767ea94f846b8638d9ce7a7aa3
+        x: -1
+        y: -1
+        width: 3001
+        height: 385
+      spriteId: 5c952f64bc27f4049a69a04f4e0cb848
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -269,4 +179,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 220, y: 92}
+  canvasSize: {x: 3000, y: 384}

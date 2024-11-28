@@ -1,25 +1,12 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 4fec1770fc913ee44b4658034b5bcec1
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 7681385628374435278
-    second: Fase 2 (1) (1)_0
-=======
-guid: 704e0829e3c9e75408305c23af0759ae
-TextureImporter:
   internalIDToNameTable: []
->>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-<<<<<<< HEAD
-    enableMipMap: 0
-=======
     enableMipMap: 1
->>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -47,18 +34,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
-<<<<<<< HEAD
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
-  nPOTScale: 0
-  lightmap: 0
-  compressionQuality: 50
-  spriteMode: 2
-=======
     wrapU: 0
     wrapV: 0
     wrapW: 0
@@ -66,7 +44,6 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 0
->>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,17 +52,10 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-<<<<<<< HEAD
-  alphaIsTransparency: 1
-  spriteTessellationDetail: -1
-  textureType: 8
-  textureShape: 1
-=======
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
   textureShape: 2
->>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
   singleChannelComponent: 0
   flipbookRows: 1
   flipbookColumns: 1
@@ -93,18 +63,6 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-<<<<<<< HEAD
-  applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
-  platformSettings:
-  - serializedVersion: 4
-    buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-=======
   applyGammaDecoding: 1
   swizzle: 50462976
   cookieLightType: 2
@@ -112,10 +70,9 @@ TextureImporter:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 8192
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 0
->>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -128,11 +85,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< HEAD
-    textureCompression: 1
-=======
     textureCompression: 0
->>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -145,11 +98,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< HEAD
-    textureCompression: 1
-=======
     textureCompression: 0
->>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -159,33 +108,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-<<<<<<< HEAD
-    sprites:
-    - serializedVersion: 2
-      name: Fase 2 (1) (1)_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 7000
-        height: 384
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec58c020883c99a60800000000000000
-      internalID: 7681385628374435278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-=======
     sprites: []
->>>>>>> fe7c79917d83a3521be5718be6db214915c3d4a0
     outline: []
     customData: 
     physicsShape: []
