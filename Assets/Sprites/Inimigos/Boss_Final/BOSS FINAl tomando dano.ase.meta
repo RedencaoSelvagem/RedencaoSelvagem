@@ -135,7 +135,11 @@ ScriptedImporter:
       width: 90
       height: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: d03ae65fd3fc06447b95107b6c98d1b9
+=======
+    spriteID: 92cedeaad3338b844863e2865f5fb7a4
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
     spriteID: ed22ae733b2fddb4b9c49c9f6baa9c77
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -160,7 +164,11 @@ ScriptedImporter:
       width: 90
       height: 125
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: 06c6b6ef70972684cab65591a2dff7b4
+=======
+    spriteID: 0acbece3b5348894ba899944c86f0aff
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
     spriteID: 7cdcb254bde365d4c82c968d99b08ba6
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -185,7 +193,11 @@ ScriptedImporter:
       width: 91
       height: 127
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: 1a274964b404b9b49b6a50eebbe95810
+=======
+    spriteID: 0eebce2f1f2207d42802c2ad30b58bf1
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
     spriteID: b639828af4289d74cac736cc019254a4
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -210,7 +222,11 @@ ScriptedImporter:
       width: 90
       height: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: 407bd452543dc9e40a6b7c97843d9d0c
+=======
+    spriteID: 2136f948357e25a4da54b40dac69ca7a
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
     spriteID: 237f46b2cf2680c4dbd61e2e83f65789
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -235,7 +251,11 @@ ScriptedImporter:
       width: 90
       height: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: 9450795465f14ab479d63084769c44c8
+=======
+    spriteID: 7cbe4414db1941f43b104777969a5318
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
     spriteID: 278f8d06377d2f04ebc3e9e5f3f8bf54
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -260,7 +280,11 @@ ScriptedImporter:
       width: 90
       height: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: 4ebf06a4afac191449d201019d9e5b37
+=======
+    spriteID: 9cffd1198b645b2469af7beb03d18542
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
     spriteID: 6d71e3284f3082a4aa36ec41c4b2b721
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -290,7 +314,11 @@ ScriptedImporter:
         width: 90
         height: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
       spriteId: d03ae65fd3fc06447b95107b6c98d1b9
+=======
+      spriteId: 92cedeaad3338b844863e2865f5fb7a4
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
       spriteId: ed22ae733b2fddb4b9c49c9f6baa9c77
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -303,7 +331,11 @@ ScriptedImporter:
         width: 90
         height: 125
 <<<<<<< HEAD
+<<<<<<< HEAD
       spriteId: 06c6b6ef70972684cab65591a2dff7b4
+=======
+      spriteId: 0acbece3b5348894ba899944c86f0aff
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
       spriteId: 7cdcb254bde365d4c82c968d99b08ba6
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -316,7 +348,11 @@ ScriptedImporter:
         width: 91
         height: 127
 <<<<<<< HEAD
+<<<<<<< HEAD
       spriteId: 1a274964b404b9b49b6a50eebbe95810
+=======
+      spriteId: 0eebce2f1f2207d42802c2ad30b58bf1
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
       spriteId: b639828af4289d74cac736cc019254a4
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -329,7 +365,11 @@ ScriptedImporter:
         width: 90
         height: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
       spriteId: 407bd452543dc9e40a6b7c97843d9d0c
+=======
+      spriteId: 2136f948357e25a4da54b40dac69ca7a
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
       spriteId: 237f46b2cf2680c4dbd61e2e83f65789
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -342,7 +382,11 @@ ScriptedImporter:
         width: 90
         height: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
       spriteId: 9450795465f14ab479d63084769c44c8
+=======
+      spriteId: 7cbe4414db1941f43b104777969a5318
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
       spriteId: 278f8d06377d2f04ebc3e9e5f3f8bf54
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
@@ -355,7 +399,11 @@ ScriptedImporter:
         width: 90
         height: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
       spriteId: 4ebf06a4afac191449d201019d9e5b37
+=======
+      spriteId: 9cffd1198b645b2469af7beb03d18542
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
       spriteId: 6d71e3284f3082a4aa36ec41c4b2b721
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
