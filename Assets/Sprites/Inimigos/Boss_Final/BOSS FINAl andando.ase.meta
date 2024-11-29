@@ -136,13 +136,20 @@ ScriptedImporter:
       height: 128
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: 08de2500359ddad4491f70f8d8ad5dbd
 =======
+=======
+    spriteID: 4bfcc5a8780c02c49a5b40aff3513565
+=======
+<<<<<<< HEAD
+>>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
     spriteID: 65ba169c59c55c64785dcb562b1ae021
 >>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
     spriteID: cf581e1563b3e5643a5f619d2530a558
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -165,13 +172,20 @@ ScriptedImporter:
       height: 128
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: e05a3163992bd0341934e711caa8eeaa
 =======
+=======
+    spriteID: a71330c30508d8a4ea5171e5827494cb
+=======
+<<<<<<< HEAD
+>>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
     spriteID: dff6eac51f6ee4745b3cd411e109f4be
 >>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
     spriteID: 8540a00199952e74aab2737c7e608232
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -199,13 +213,20 @@ ScriptedImporter:
         height: 128
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       spriteId: 08de2500359ddad4491f70f8d8ad5dbd
 =======
+=======
+      spriteId: 4bfcc5a8780c02c49a5b40aff3513565
+=======
+<<<<<<< HEAD
+>>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
       spriteId: 65ba169c59c55c64785dcb562b1ae021
 >>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
       spriteId: cf581e1563b3e5643a5f619d2530a558
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -216,13 +237,20 @@ ScriptedImporter:
         height: 128
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       spriteId: e05a3163992bd0341934e711caa8eeaa
 =======
+=======
+      spriteId: a71330c30508d8a4ea5171e5827494cb
+=======
+<<<<<<< HEAD
+>>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
       spriteId: dff6eac51f6ee4745b3cd411e109f4be
 >>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
 =======
       spriteId: 8540a00199952e74aab2737c7e608232
 >>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
+>>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
     linkedCells: []
     parentIndex: -1
   platformSettings:
