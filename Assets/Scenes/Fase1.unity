@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerDirection: {x: 0, y: 0}
-  playerSpeed: 4
+  playerSpeed: 2
 --- !u!61 &159124659
 BoxCollider2D:
   m_ObjectHideFlags: 0
