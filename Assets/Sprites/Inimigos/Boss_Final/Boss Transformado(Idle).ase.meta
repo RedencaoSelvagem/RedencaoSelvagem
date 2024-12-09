@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638693591453380211
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -134,7 +134,11 @@ ScriptedImporter:
       y: 4
       width: 114
       height: 124
+<<<<<<< HEAD
     spriteID: 84d8a5eb3bbb6f44bbecc37e69c4f18a
+=======
+    spriteID: e96be371c63a8264cae68a83aad8ca3b
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +159,11 @@ ScriptedImporter:
       y: 4
       width: 113
       height: 124
+<<<<<<< HEAD
     spriteID: 20e38801120a353479767f90c1a9cdb4
+=======
+    spriteID: 023979c5801149147b8124f8642e45e1
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +184,11 @@ ScriptedImporter:
       y: 268
       width: 113
       height: 125
+<<<<<<< HEAD
     spriteID: ce2a3de0af80933459a95449c5c26013
+=======
+    spriteID: 9094ba9cac2de53429ce809055ab69e5
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +209,11 @@ ScriptedImporter:
       y: 136
       width: 114
       height: 124
+<<<<<<< HEAD
     spriteID: 56b7210fdc88c9c4abb43274ea6750f2
+=======
+    spriteID: 1d60e351aa91ca140b31e9dc6ed2c913
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -223,7 +239,11 @@ ScriptedImporter:
         y: 3
         width: 114
         height: 124
+<<<<<<< HEAD
       spriteId: 84d8a5eb3bbb6f44bbecc37e69c4f18a
+=======
+      spriteId: e96be371c63a8264cae68a83aad8ca3b
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -232,7 +252,11 @@ ScriptedImporter:
         y: 3
         width: 113
         height: 124
+<<<<<<< HEAD
       spriteId: 20e38801120a353479767f90c1a9cdb4
+=======
+      spriteId: 023979c5801149147b8124f8642e45e1
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -241,7 +265,11 @@ ScriptedImporter:
         y: 3
         width: 113
         height: 125
+<<<<<<< HEAD
       spriteId: ce2a3de0af80933459a95449c5c26013
+=======
+      spriteId: 9094ba9cac2de53429ce809055ab69e5
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -250,7 +278,11 @@ ScriptedImporter:
         y: 3
         width: 114
         height: 124
+<<<<<<< HEAD
       spriteId: 56b7210fdc88c9c4abb43274ea6750f2
+=======
+      spriteId: 1d60e351aa91ca140b31e9dc6ed2c913
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -261,6 +293,42 @@ ScriptedImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
     forceMaximumCompressionQuality_BC6H_BC7: 0
     crunchedCompression: 0
