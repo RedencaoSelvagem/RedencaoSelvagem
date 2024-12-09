@@ -134,34 +134,7 @@ ScriptedImporter:
       y: 4
       width: 114
       height: 124
-<<<<<<< HEAD
-    spriteID: 6f3a818bdd2032044a88b3ccd5cfea81
-=======
-<<<<<<< HEAD
-    spriteID: 9406b1fc163bec74aa612ab004d2e2b0
-=======
-<<<<<<< HEAD
-    spriteID: 0b6953710b9a30248a651ee9394f642d
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: 654bb544345d0184f958e4e8a0a4e1dc
-=======
-=======
-    spriteID: 7bf53cd8e19a4c94890f49e549537131
-=======
-<<<<<<< HEAD
->>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
-    spriteID: 077ef24b105cfa04a8448c3e40a87d48
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
-=======
-    spriteID: 5695ee5d7d1103741b050cfd8795656c
->>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
->>>>>>> 7d440c7f75003bddaab5e7c85db97fe985dbcacf
->>>>>>> d1c77befe2c379632d7eae5c81d07ddc95fd4a37
->>>>>>> f0576d7519b9a51b846c86e18730c43bab147ccc
+    spriteID: 51e9a5e01423eb94c8fc0ac79ce50017
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -182,34 +155,7 @@ ScriptedImporter:
       y: 4
       width: 91
       height: 105
-<<<<<<< HEAD
-    spriteID: c58338c6d2cd5064a9c28018e9d89ce7
-=======
-<<<<<<< HEAD
-    spriteID: 6350616c242c82842b27fdf493c3c18b
-=======
-<<<<<<< HEAD
-    spriteID: 631e1273af3a0d84ea05e9e06aa1f1b1
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: 494c554e0cbf42148a002a61ac690baa
-=======
-=======
-    spriteID: c8f9c6eaf72c5684996a7c0313bcb2ff
-=======
-<<<<<<< HEAD
->>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
-    spriteID: accb7dc8c58655141b6aff6ad7d281d6
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
-=======
-    spriteID: 5bbec1f461cd48749b0f22d0fabd044c
->>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
->>>>>>> 7d440c7f75003bddaab5e7c85db97fe985dbcacf
->>>>>>> d1c77befe2c379632d7eae5c81d07ddc95fd4a37
->>>>>>> f0576d7519b9a51b846c86e18730c43bab147ccc
+    spriteID: 06416884d950e994c937acbeca6672ef
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -230,34 +176,7 @@ ScriptedImporter:
       y: 136
       width: 77
       height: 68
-<<<<<<< HEAD
-    spriteID: 09cbd3acab6377a45bebd68773d25bbc
-=======
-<<<<<<< HEAD
-    spriteID: 5f9d300af517e064ab5957eb8fe3b079
-=======
-<<<<<<< HEAD
-    spriteID: 2390c01f0399c4f4d9d0b2ba19a6aa7f
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: 5c2bf393452a78b478123b28317faf73
-=======
-=======
-    spriteID: cece74d39a553d546a638883d9961ffe
-=======
-<<<<<<< HEAD
->>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
-    spriteID: e5620677ea92dc942ba20813d913b672
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
-=======
-    spriteID: 4e73d0b477f2e0d4bacb9ccfa27c882d
->>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
->>>>>>> 7d440c7f75003bddaab5e7c85db97fe985dbcacf
->>>>>>> d1c77befe2c379632d7eae5c81d07ddc95fd4a37
->>>>>>> f0576d7519b9a51b846c86e18730c43bab147ccc
+    spriteID: a324c0217281d684d8647490312b2229
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -278,34 +197,7 @@ ScriptedImporter:
       y: 136
       width: 64
       height: 63
-<<<<<<< HEAD
-    spriteID: 7f23b19e00d568f46962f221bf694cd5
-=======
-<<<<<<< HEAD
-    spriteID: 59f39b0e7c3fb3146bc14dade9013780
-=======
-<<<<<<< HEAD
-    spriteID: edcdf56d8ee6b9442afe64d0fb9f3b59
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: bf3fa875c5298ef45961ab6e255cbec7
-=======
-=======
-    spriteID: 353f236808c76a34895851ef4ef71815
-=======
-<<<<<<< HEAD
->>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
-    spriteID: 12210481f4a8c404ebd6a0928543e6e8
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
-=======
-    spriteID: e6717068851fd8b459927bae502fe7ce
->>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
->>>>>>> 7d440c7f75003bddaab5e7c85db97fe985dbcacf
->>>>>>> d1c77befe2c379632d7eae5c81d07ddc95fd4a37
->>>>>>> f0576d7519b9a51b846c86e18730c43bab147ccc
+    spriteID: 8da4c21041180cd4e97442840756d648
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -331,34 +223,7 @@ ScriptedImporter:
         y: 3
         width: 114
         height: 124
-<<<<<<< HEAD
-      spriteId: 6f3a818bdd2032044a88b3ccd5cfea81
-=======
-<<<<<<< HEAD
-      spriteId: 9406b1fc163bec74aa612ab004d2e2b0
-=======
-<<<<<<< HEAD
-      spriteId: 0b6953710b9a30248a651ee9394f642d
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: 654bb544345d0184f958e4e8a0a4e1dc
-=======
-=======
-      spriteId: 7bf53cd8e19a4c94890f49e549537131
-=======
-<<<<<<< HEAD
->>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
-      spriteId: 077ef24b105cfa04a8448c3e40a87d48
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
-=======
-      spriteId: 5695ee5d7d1103741b050cfd8795656c
->>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
->>>>>>> 7d440c7f75003bddaab5e7c85db97fe985dbcacf
->>>>>>> d1c77befe2c379632d7eae5c81d07ddc95fd4a37
->>>>>>> f0576d7519b9a51b846c86e18730c43bab147ccc
+      spriteId: 51e9a5e01423eb94c8fc0ac79ce50017
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -367,34 +232,7 @@ ScriptedImporter:
         y: 21
         width: 91
         height: 105
-<<<<<<< HEAD
-      spriteId: c58338c6d2cd5064a9c28018e9d89ce7
-=======
-<<<<<<< HEAD
-      spriteId: 6350616c242c82842b27fdf493c3c18b
-=======
-<<<<<<< HEAD
-      spriteId: 631e1273af3a0d84ea05e9e06aa1f1b1
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: 494c554e0cbf42148a002a61ac690baa
-=======
-=======
-      spriteId: c8f9c6eaf72c5684996a7c0313bcb2ff
-=======
-<<<<<<< HEAD
->>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
-      spriteId: accb7dc8c58655141b6aff6ad7d281d6
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
-=======
-      spriteId: 5bbec1f461cd48749b0f22d0fabd044c
->>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
->>>>>>> 7d440c7f75003bddaab5e7c85db97fe985dbcacf
->>>>>>> d1c77befe2c379632d7eae5c81d07ddc95fd4a37
->>>>>>> f0576d7519b9a51b846c86e18730c43bab147ccc
+      spriteId: 06416884d950e994c937acbeca6672ef
     - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -403,34 +241,7 @@ ScriptedImporter:
         y: 20
         width: 77
         height: 68
-<<<<<<< HEAD
-      spriteId: 09cbd3acab6377a45bebd68773d25bbc
-=======
-<<<<<<< HEAD
-      spriteId: 5f9d300af517e064ab5957eb8fe3b079
-=======
-<<<<<<< HEAD
-      spriteId: 2390c01f0399c4f4d9d0b2ba19a6aa7f
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: 5c2bf393452a78b478123b28317faf73
-=======
-=======
-      spriteId: cece74d39a553d546a638883d9961ffe
-=======
-<<<<<<< HEAD
->>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
-      spriteId: e5620677ea92dc942ba20813d913b672
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
-=======
-      spriteId: 4e73d0b477f2e0d4bacb9ccfa27c882d
->>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
->>>>>>> 7d440c7f75003bddaab5e7c85db97fe985dbcacf
->>>>>>> d1c77befe2c379632d7eae5c81d07ddc95fd4a37
->>>>>>> f0576d7519b9a51b846c86e18730c43bab147ccc
+      spriteId: a324c0217281d684d8647490312b2229
     - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -439,34 +250,7 @@ ScriptedImporter:
         y: 22
         width: 64
         height: 63
-<<<<<<< HEAD
-      spriteId: 7f23b19e00d568f46962f221bf694cd5
-=======
-<<<<<<< HEAD
-      spriteId: 59f39b0e7c3fb3146bc14dade9013780
-=======
-<<<<<<< HEAD
-      spriteId: edcdf56d8ee6b9442afe64d0fb9f3b59
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: bf3fa875c5298ef45961ab6e255cbec7
-=======
-=======
-      spriteId: 353f236808c76a34895851ef4ef71815
-=======
-<<<<<<< HEAD
->>>>>>> 4a5f2beb6fdf03cd392b41a9734fb1da9917503d
-      spriteId: 12210481f4a8c404ebd6a0928543e6e8
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
-=======
-      spriteId: e6717068851fd8b459927bae502fe7ce
->>>>>>> 3ad4a241a78fd2e4adf678e21ac35231d16c9396
->>>>>>> ac3696fc2f27ac587d566b429e25bf81971dea42
->>>>>>> 7d440c7f75003bddaab5e7c85db97fe985dbcacf
->>>>>>> d1c77befe2c379632d7eae5c81d07ddc95fd4a37
->>>>>>> f0576d7519b9a51b846c86e18730c43bab147ccc
+      spriteId: 8da4c21041180cd4e97442840756d648
     linkedCells: []
     parentIndex: -1
   platformSettings:
