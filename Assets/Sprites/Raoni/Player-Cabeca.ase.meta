@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f73873d8080d14c4b80d97e59d76afe2
+guid: 6237d4d57fa3fd2418eb5a84a1e7a550
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638693613986761625
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -122,51 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: Player-Cabeca
     originalName: 
-    pivot: {x: 0.42465755, y: -0.04494382}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 86
-      y: 4
-      width: 73
-      height: 89
-    spriteID: d5c33cf5c9e5f2b4ebf99fb5349a9608
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 86, y: 4}
-  - name: Frame_1
-    originalName: 
-    pivot: {x: 0.46575344, y: -0.04494382}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 167
-      y: 4
-      width: 73
-      height: 89
-    spriteID: 3daf72d1e861a4940a300e2d4f0ac65a
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 167, y: 4}
-  - name: Frame_2
-    originalName: 
-    pivot: {x: 0.47297293, y: -0.033333335}
+    pivot: {x: 0.45454547, y: -2.173913}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -174,9 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 74
-      height: 90
-    spriteID: 9f50021a6657b8045895fcf8ffeef76b
+      width: 22
+      height: 23
+    spriteID: 9305fc93a65201b42974d99ae58d068e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -185,102 +143,24 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_3
-    originalName: 
-    pivot: {x: 0.46575344, y: -0.04494382}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 102
-      width: 73
-      height: 89
-    spriteID: c93ecb53e967ed94aad354300f9df887
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 102}
-  - name: Frame_4
-    originalName: 
-    pivot: {x: 0.42465755, y: -0.04494382}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 85
-      y: 102
-      width: 73
-      height: 89
-    spriteID: d959a94d1d422e84884c1e78e09aaa49
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 85, y: 102}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 173692870
-    name: Boss Lanca chamas(Dano)
+    guid: 1222529637
+    name: Player-Cabeca
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Player-Cabeca
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 17
-        y: 4
-        width: 73
-        height: 89
-      spriteId: d5c33cf5c9e5f2b4ebf99fb5349a9608
-    - name: Frame_1
-      frameIndex: 1
-      additiveSortOrder: 0
-      cellRect:
-        x: 14
-        y: 4
-        width: 73
-        height: 89
-      spriteId: 3daf72d1e861a4940a300e2d4f0ac65a
-    - name: Frame_2
-      frameIndex: 2
-      additiveSortOrder: 0
-      cellRect:
-        x: 13
-        y: 3
-        width: 74
-        height: 90
-      spriteId: 9f50021a6657b8045895fcf8ffeef76b
-    - name: Frame_3
-      frameIndex: 3
-      additiveSortOrder: 0
-      cellRect:
-        x: 14
-        y: 4
-        width: 73
-        height: 89
-      spriteId: c93ecb53e967ed94aad354300f9df887
-    - name: Frame_4
-      frameIndex: 4
-      additiveSortOrder: 0
-      cellRect:
-        x: 17
-        y: 4
-        width: 73
-        height: 89
-      spriteId: d959a94d1d422e84884c1e78e09aaa49
+        x: 22
+        y: 50
+        width: 22
+        height: 23
+      spriteId: 9305fc93a65201b42974d99ae58d068e
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -296,7 +176,43 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 96, y: 96}
+  canvasSize: {x: 64, y: 74}
