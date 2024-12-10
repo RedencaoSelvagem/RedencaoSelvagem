@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638693590686681382
+  platformSettingsDirtyTick: 638694392290783731
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -134,15 +134,7 @@ ScriptedImporter:
       y: 4
       width: 114
       height: 124
-<<<<<<< HEAD
-    spriteID: be462023e73fa754da2516d650e7c6ad
-=======
-<<<<<<< HEAD
-    spriteID: dceb1cda74dfd6a41b78c293c662cccf
-=======
-    spriteID: 67c4b8d2288537144adeed96cf535090
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+    spriteID: 68d4fb8840361a349840634fdc77123e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -168,15 +160,7 @@ ScriptedImporter:
         y: 3
         width: 114
         height: 124
-<<<<<<< HEAD
-      spriteId: be462023e73fa754da2516d650e7c6ad
-=======
-<<<<<<< HEAD
-      spriteId: dceb1cda74dfd6a41b78c293c662cccf
-=======
-      spriteId: 67c4b8d2288537144adeed96cf535090
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+      spriteId: 68d4fb8840361a349840634fdc77123e
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -195,7 +179,7 @@ ScriptedImporter:
   - name: DefaultTexturePlatform
     overridden: 0
     ignorePlatformSupport: 0
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 0
