@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 10fa4ea4c36ce784daef8f2206505447
+guid: 6237d4d57fa3fd2418eb5a84a1e7a550
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638693590257129977
+  platformSettingsDirtyTick: 638693613986761625
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -122,9 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: BOSS FINAl
+  - name: Player-Cabeca
     originalName: 
-    pivot: {x: 0.44444445, y: 0}
+    pivot: {x: 0.45454547, y: -2.173913}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -132,21 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 90
-      height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: d5d8707586ba2774a90840dcf6b0d94c
-=======
-    spriteID: c1d0091f0f4c35d4d9623cdc52469219
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-    spriteID: 32e6f1eb174fe1d46b3bd27f88fc8fb8
-=======
-    spriteID: 54809e5d607e047489569b1a909b77fa
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+      width: 22
+      height: 23
+    spriteID: 9305fc93a65201b42974d99ae58d068e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -158,33 +146,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1497805111
-    name: BOSS FINAl
+    guid: 1222529637
+    name: Player-Cabeca
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: BOSS FINAl
+    - name: Player-Cabeca
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 24
-        y: 0
-        width: 90
-        height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: d5d8707586ba2774a90840dcf6b0d94c
-=======
-      spriteId: c1d0091f0f4c35d4d9623cdc52469219
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-      spriteId: 32e6f1eb174fe1d46b3bd27f88fc8fb8
-=======
-      spriteId: 54809e5d607e047489569b1a909b77fa
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+        x: 22
+        y: 50
+        width: 22
+        height: 23
+      spriteId: 9305fc93a65201b42974d99ae58d068e
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -203,8 +179,8 @@ ScriptedImporter:
   - name: DefaultTexturePlatform
     overridden: 0
     ignorePlatformSupport: 0
-    maxTextureSize: 4096
-    resizeAlgorithm: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
@@ -239,4 +215,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 128, y: 128}
+  canvasSize: {x: 64, y: 74}

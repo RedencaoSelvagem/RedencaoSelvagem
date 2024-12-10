@@ -2,17 +2,34 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    private Rigidbody2D playerRigidBody;
+
+    public float playerSpeed = 0.6f;
+    public float currentSpeed;
+
     public Vector2 playerDirection;
-
-    private bool playerFacingRight = true;
-
-    private Animator playerAnimator;
 
     private bool isRunning;
 
-    public float playerSpeed = 1f;
+    private Animator playerAnimator;
 
-    private Rigidbody2D playerRigidBody;
+    // Player olhando para a direita
+    private bool playerFacingRight = true;
+
+    //Variuavel contadora 
+    private int punchCount;
+
+    //Tempo de ataque 
+    private float timeCross = 1.3f;
+
+    private bool comboControl;
+
+    // Indicar se o Player esta morto
+    private bool isDead;
+
+    public int maxHealth = 10;
+    public int currentHealt;
+    public Sprite playerImage;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -80,5 +97,15 @@ public class PlayerController : MonoBehaviour
     {
         PlayerMove();
         UpdateAnimator();
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if (!isDead)
+        {
+            currentHealt -= damage;
+            playerAnimator.SetTrigger("hitDamage");
+            FindFirstObjectByType<UIManager>().UpdatePlayerHealth(currentHealt);
+        }
     }
 }
