@@ -134,19 +134,7 @@ ScriptedImporter:
       y: 276
       width: 90
       height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: 5c7c790c51c0c12498a25ff97104b3c4
-=======
-    spriteID: 3e39dc3ec8dbae84eb4dc8e8c0550c57
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-    spriteID: b6bd50f486139274d8758c08b6d2c35e
-=======
-    spriteID: 400a5a32b7b7edb40bd95af71f6a4cd0
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+    spriteID: 45a76ed423795c040a8d052819d53bb2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -167,19 +155,7 @@ ScriptedImporter:
       y: 4
       width: 95
       height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: af7dc99989421314ca80184365247498
-=======
-    spriteID: 061b124d37a483f45a1c90d97a2bcafc
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-    spriteID: 197452aa60de3464a8042a8e56527427
-=======
-    spriteID: 56d6df83ec3b61d44b3573a4bc069089
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+    spriteID: a01e04b5a060492478eb33a27e1e4880
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -200,19 +176,7 @@ ScriptedImporter:
       y: 140
       width: 95
       height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: 2049867de71088946b9ec8b8aae67721
-=======
-    spriteID: 01305c666cda44c4c82c2f8e163d41dd
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-    spriteID: 58f1639e63800b54c971539f614433a7
-=======
-    spriteID: 65657d936dc26744f80b097fb2b9c6e7
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+    spriteID: 3f444fad430a6b14b9409663d4762a1a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -233,19 +197,7 @@ ScriptedImporter:
       y: 4
       width: 90
       height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: 659980d6ac25e19469c14dc31d64469a
-=======
-    spriteID: 44179c80eef69ae49be1d13aebd5dc03
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-    spriteID: 2636f07595b29324a83d0117904da979
-=======
-    spriteID: 05f809f33f0a32b45872c1558424e86d
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+    spriteID: 2f6de19632d7ae8418d70d80c56dd143
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -271,19 +223,7 @@ ScriptedImporter:
         y: 0
         width: 90
         height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: 5c7c790c51c0c12498a25ff97104b3c4
-=======
-      spriteId: 3e39dc3ec8dbae84eb4dc8e8c0550c57
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-      spriteId: b6bd50f486139274d8758c08b6d2c35e
-=======
-      spriteId: 400a5a32b7b7edb40bd95af71f6a4cd0
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+      spriteId: 45a76ed423795c040a8d052819d53bb2
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -292,19 +232,7 @@ ScriptedImporter:
         y: 0
         width: 95
         height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: af7dc99989421314ca80184365247498
-=======
-      spriteId: 061b124d37a483f45a1c90d97a2bcafc
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-      spriteId: 197452aa60de3464a8042a8e56527427
-=======
-      spriteId: 56d6df83ec3b61d44b3573a4bc069089
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+      spriteId: a01e04b5a060492478eb33a27e1e4880
     - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -313,19 +241,7 @@ ScriptedImporter:
         y: 0
         width: 95
         height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: 2049867de71088946b9ec8b8aae67721
-=======
-      spriteId: 01305c666cda44c4c82c2f8e163d41dd
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-      spriteId: 58f1639e63800b54c971539f614433a7
-=======
-      spriteId: 65657d936dc26744f80b097fb2b9c6e7
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+      spriteId: 3f444fad430a6b14b9409663d4762a1a
     - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -334,19 +250,7 @@ ScriptedImporter:
         y: 0
         width: 90
         height: 128
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: 659980d6ac25e19469c14dc31d64469a
-=======
-      spriteId: 44179c80eef69ae49be1d13aebd5dc03
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-      spriteId: 2636f07595b29324a83d0117904da979
-=======
-      spriteId: 05f809f33f0a32b45872c1558424e86d
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
+      spriteId: 2f6de19632d7ae8418d70d80c56dd143
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -357,42 +261,6 @@ ScriptedImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 4096
-    resizeAlgorithm: 1
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: WebGL
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
     compressionQuality: 50
     forceMaximumCompressionQuality_BC6H_BC7: 0
     crunchedCompression: 0
