@@ -134,31 +134,7 @@ ScriptedImporter:
       y: 4
       width: 90
       height: 128
-<<<<<<< HEAD
-    spriteID: cdaf807b165a8794e8d98ba493d6d477
-=======
-<<<<<<< HEAD
-    spriteID: ccea072004404f9419bcf1bbf55f6176
-=======
-<<<<<<< HEAD
-    spriteID: 460cfa70f006fcb4daddf0553d1b6e72
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: d5d8707586ba2774a90840dcf6b0d94c
-=======
-    spriteID: c1d0091f0f4c35d4d9623cdc52469219
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-    spriteID: 32e6f1eb174fe1d46b3bd27f88fc8fb8
-=======
-    spriteID: 54809e5d607e047489569b1a909b77fa
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
->>>>>>> 6e9a1fabd706045e7d3f1702a324e4b5930f47e9
->>>>>>> 0cacbe3c6ba5e631b4a708c2fac151b82625cf2c
->>>>>>> 8d674c930895b6f1c024bfa000e44bcb2413907f
+    spriteID: 90ec90c59a437aa41870099f9b77667d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -184,31 +160,7 @@ ScriptedImporter:
         y: 0
         width: 90
         height: 128
-<<<<<<< HEAD
-      spriteId: cdaf807b165a8794e8d98ba493d6d477
-=======
-<<<<<<< HEAD
-      spriteId: ccea072004404f9419bcf1bbf55f6176
-=======
-<<<<<<< HEAD
-      spriteId: 460cfa70f006fcb4daddf0553d1b6e72
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: d5d8707586ba2774a90840dcf6b0d94c
-=======
-      spriteId: c1d0091f0f4c35d4d9623cdc52469219
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-      spriteId: 32e6f1eb174fe1d46b3bd27f88fc8fb8
-=======
-      spriteId: 54809e5d607e047489569b1a909b77fa
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
->>>>>>> 6e9a1fabd706045e7d3f1702a324e4b5930f47e9
->>>>>>> 0cacbe3c6ba5e631b4a708c2fac151b82625cf2c
->>>>>>> 8d674c930895b6f1c024bfa000e44bcb2413907f
+      spriteId: 90ec90c59a437aa41870099f9b77667d
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -224,48 +176,6 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 1
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: WebGL
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
->>>>>>> 0cacbe3c6ba5e631b4a708c2fac151b82625cf2c
->>>>>>> 8d674c930895b6f1c024bfa000e44bcb2413907f
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
