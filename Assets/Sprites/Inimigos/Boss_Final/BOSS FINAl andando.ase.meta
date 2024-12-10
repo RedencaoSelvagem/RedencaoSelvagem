@@ -134,11 +134,7 @@ ScriptedImporter:
       y: 4
       width: 90
       height: 128
-<<<<<<< HEAD
-    spriteID: b6e657191fd8a854f9e881685351b777
-=======
-    spriteID: b3369a794b1c4144488a85944788fe6c
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
+    spriteID: eb817eb651613134798e6308735d033b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -159,11 +155,7 @@ ScriptedImporter:
       y: 4
       width: 90
       height: 128
-<<<<<<< HEAD
-    spriteID: 7f83b1adeb7759f4f93e19db45e8fdd9
-=======
-    spriteID: 7646a61e4daaa374899c82888a9bfecf
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
+    spriteID: ddfe1f8d9fe48c146a32ebdaa85ff36c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -189,11 +181,7 @@ ScriptedImporter:
         y: 0
         width: 90
         height: 128
-<<<<<<< HEAD
-      spriteId: b6e657191fd8a854f9e881685351b777
-=======
-      spriteId: b3369a794b1c4144488a85944788fe6c
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
+      spriteId: eb817eb651613134798e6308735d033b
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -202,11 +190,7 @@ ScriptedImporter:
         y: 0
         width: 90
         height: 128
-<<<<<<< HEAD
-      spriteId: 7f83b1adeb7759f4f93e19db45e8fdd9
-=======
-      spriteId: 7646a61e4daaa374899c82888a9bfecf
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
+      spriteId: ddfe1f8d9fe48c146a32ebdaa85ff36c
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -217,42 +201,6 @@ ScriptedImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 4096
-    resizeAlgorithm: 1
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: WebGL
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
     compressionQuality: 50
     forceMaximumCompressionQuality_BC6H_BC7: 0
     crunchedCompression: 0
