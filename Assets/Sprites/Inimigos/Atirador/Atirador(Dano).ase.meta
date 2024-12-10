@@ -134,7 +134,11 @@ ScriptedImporter:
       y: 4
       width: 60
       height: 64
+<<<<<<< HEAD
+    spriteID: 17ab1a9c82a743549adede4e6ac1ac18
+=======
     spriteID: 7b4c71001a2ad36428590b15cde53d71
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +159,11 @@ ScriptedImporter:
       y: 76
       width: 60
       height: 64
+<<<<<<< HEAD
+    spriteID: 15f8b7ba47d6dbc419e73dc254766044
+=======
     spriteID: d8f0a427f1bd53b40aac010fc3ec15ab
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +184,11 @@ ScriptedImporter:
       y: 76
       width: 57
       height: 61
+<<<<<<< HEAD
+    spriteID: 8ba850cc88ba16441b568f0b6dcf6e6e
+=======
     spriteID: b302e8f8a86f783439c47b45ed246c4f
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +209,11 @@ ScriptedImporter:
       y: 145
       width: 57
       height: 61
+<<<<<<< HEAD
+    spriteID: 29485f2a8c600af41835796fdedc8d5c
+=======
     spriteID: 84167455a90aefe4695749ef7e17b46d
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -218,7 +234,11 @@ ScriptedImporter:
       y: 148
       width: 60
       height: 64
+<<<<<<< HEAD
+    spriteID: 9469bc99bdd0673478b908fe5cd40ffa
+=======
     spriteID: f21cb6758c2b5fe4e97001322f2e3073
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -239,7 +259,11 @@ ScriptedImporter:
       y: 4
       width: 60
       height: 64
+<<<<<<< HEAD
+    spriteID: b0cd093e43d35214da2c1d89ecf5eb45
+=======
     spriteID: 390521897ece83b4290c679e34e8cf26
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -265,7 +289,11 @@ ScriptedImporter:
         y: 0
         width: 60
         height: 64
+<<<<<<< HEAD
+      spriteId: 17ab1a9c82a743549adede4e6ac1ac18
+=======
       spriteId: 7b4c71001a2ad36428590b15cde53d71
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -274,7 +302,11 @@ ScriptedImporter:
         y: 0
         width: 60
         height: 64
+<<<<<<< HEAD
+      spriteId: 15f8b7ba47d6dbc419e73dc254766044
+=======
       spriteId: d8f0a427f1bd53b40aac010fc3ec15ab
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -283,7 +315,11 @@ ScriptedImporter:
         y: 0
         width: 57
         height: 61
+<<<<<<< HEAD
+      spriteId: 8ba850cc88ba16441b568f0b6dcf6e6e
+=======
       spriteId: b302e8f8a86f783439c47b45ed246c4f
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -292,7 +328,11 @@ ScriptedImporter:
         y: 0
         width: 57
         height: 61
+<<<<<<< HEAD
+      spriteId: 29485f2a8c600af41835796fdedc8d5c
+=======
       spriteId: 84167455a90aefe4695749ef7e17b46d
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -301,7 +341,11 @@ ScriptedImporter:
         y: 0
         width: 60
         height: 64
+<<<<<<< HEAD
+      spriteId: 9469bc99bdd0673478b908fe5cd40ffa
+=======
       spriteId: f21cb6758c2b5fe4e97001322f2e3073
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
@@ -310,7 +354,11 @@ ScriptedImporter:
         y: 0
         width: 60
         height: 64
+<<<<<<< HEAD
+      spriteId: b0cd093e43d35214da2c1d89ecf5eb45
+=======
       spriteId: 390521897ece83b4290c679e34e8cf26
+>>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
     linkedCells: []
     parentIndex: -1
   platformSettings:
