@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 96c478ca1a2544d479f72b801a66946f
+guid: 6237d4d57fa3fd2418eb5a84a1e7a550
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -32,7 +32,7 @@ ScriptedImporter:
     sRGBTexture: 1
     spriteMode: 2
     spriteExtrude: 1
-    spriteMeshType: 0
+    spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
     spritePixelsToUnits: 100
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638694393185556019
+  platformSettingsDirtyTick: 638693613986761625
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -122,51 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: Player-Cabeca
     originalName: 
-    pivot: {x: 0.49995843, y: -0.008842244}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 89
-      y: 4
-      width: 76
-      height: 68
-    spriteID: 54f986d234cc6884693c54b89e7cd0bb
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 89, y: 4}
-  - name: Frame_1
-    originalName: 
-    pivot: {x: 0.49995843, y: -0.0011638753}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 173
-      y: 4
-      width: 76
-      height: 68
-    spriteID: 9ea71573b7bc0f046aaee8285ff730f8
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 173, y: 4}
-  - name: Frame_2
-    originalName: 
-    pivot: {x: 0.4985617, y: -0.0011470076}
+    pivot: {x: 0.45454547, y: -2.173913}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -174,9 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 77
-      height: 69
-    spriteID: 4f7c8c5f6bcdbd546a873e51bc04198c
+      width: 22
+      height: 23
+    spriteID: 9305fc93a65201b42974d99ae58d068e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -185,102 +143,24 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_3
-    originalName: 
-    pivot: {x: 0.4999585, y: -0.0011637071}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 81
-      width: 76
-      height: 68
-    spriteID: d00234f9ef52cb443a6f4bcded61c482
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 81}
-  - name: Frame_4
-    originalName: 
-    pivot: {x: 0.49995843, y: -0.0011637071}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 88
-      y: 81
-      width: 76
-      height: 68
-    spriteID: b5236ae572bbf19499ab956028878a8f
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 88, y: 81}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1114795140
-    name: Lenhador (pequeno -ANDANDO-) (1)
+    guid: 1222529637
+    name: Player-Cabeca
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Player-Cabeca
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 5
-        y: 10
-        width: 76
-        height: 68
-      spriteId: 54f986d234cc6884693c54b89e7cd0bb
-    - name: Frame_1
-      frameIndex: 1
-      additiveSortOrder: 0
-      cellRect:
-        x: 5
-        y: 10
-        width: 76
-        height: 68
-      spriteId: 9ea71573b7bc0f046aaee8285ff730f8
-    - name: Frame_2
-      frameIndex: 2
-      additiveSortOrder: 0
-      cellRect:
-        x: 6
-        y: 10
-        width: 77
-        height: 69
-      spriteId: 4f7c8c5f6bcdbd546a873e51bc04198c
-    - name: Frame_3
-      frameIndex: 3
-      additiveSortOrder: 0
-      cellRect:
-        x: 5
-        y: 10
-        width: 76
-        height: 68
-      spriteId: d00234f9ef52cb443a6f4bcded61c482
-    - name: Frame_4
-      frameIndex: 4
-      additiveSortOrder: 0
-      cellRect:
-        x: 5
-        y: 10
-        width: 76
-        height: 68
-      spriteId: b5236ae572bbf19499ab956028878a8f
+        x: 22
+        y: 50
+        width: 22
+        height: 23
+      spriteId: 9305fc93a65201b42974d99ae58d068e
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -299,8 +179,8 @@ ScriptedImporter:
   - name: DefaultTexturePlatform
     overridden: 0
     ignorePlatformSupport: 0
-    maxTextureSize: 4096
-    resizeAlgorithm: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
@@ -335,4 +215,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 94, y: 84}
+  canvasSize: {x: 64, y: 74}

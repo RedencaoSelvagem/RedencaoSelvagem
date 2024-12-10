@@ -1,18 +1,36 @@
+using System.Collections;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    private Rigidbody2D playerRigidBody;
+
+    public float playerSpeed = 0.6f;
+    public float currentSpeed;
+
     public Vector2 playerDirection;
-
-    private bool playerFacingRight = true;
-
-    private Animator playerAnimator;
 
     private bool isRunning;
 
-    public float playerSpeed = 1f;
+    private Animator playerAnimator;
 
-    private Rigidbody2D playerRigidBody;
+    // Player olhando para a direita
+    private bool playerFacingRight = true;
+
+    //Variuavel contadora 
+    private int punchCount;
+
+    //Tempo de ataque 
+    private float timeCross = 1.3f;
+
+    private bool comboControl;
+
+    // Indicar se o Player esta morto
+    private bool isDead;
+
+    public int maxHealth = 10;
+    public int currentHealt;
+    public Sprite playerImage;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -22,6 +40,45 @@ public class PlayerController : MonoBehaviour
 
         // Obtem e inicializa as propriedades do animator
         playerAnimator = GetComponent<Animator>();
+
+        currentSpeed = playerSpeed;
+
+        currentHealt = maxHealth;
+    }
+
+    void Update()
+    {
+        PlayerMove();
+        UpdateAnimator();
+
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+
+
+            //Iniciar o temporizador
+            if (punchCount < 2)
+            {
+
+                PlayerJab();
+                punchCount++;
+
+                if (!comboControl)
+                {
+                    StartCoroutine(CrossController());
+                }
+
+            }
+
+            else if (punchCount >= 2)
+            {
+
+                PlayerCross();
+                punchCount = 0;
+            }
+
+            //Parando o temporizador 
+            StopCoroutine(CrossController());
+        }
     }
 
     private void FixedUpdate()
@@ -75,10 +132,36 @@ public class PlayerController : MonoBehaviour
         transform.Rotate(0, 180, 0);
     }
 
-    // Update is called once per frame
-    void Update()
+    void PlayerJab()
     {
-        PlayerMove();
-        UpdateAnimator();
+        //Acessa a animação do JAb
+        //Ativa o gatilho de ataque Jab
+        playerAnimator.SetTrigger("isJab");
+    }
+
+    void PlayerCross()
+    {
+        playerAnimator.SetTrigger("isCross");
+    }
+
+    IEnumerator CrossController()
+    {
+        comboControl = true;
+
+        yield return new WaitForSeconds(timeCross);
+        punchCount = 0;
+
+        comboControl = false;
+    }
+
+    // Update is called once per frame
+    public void TakeDamage(int damage)
+    {
+        if (!isDead)
+        {
+            currentHealt -= damage;
+            playerAnimator.SetTrigger("hitDamage");
+            FindFirstObjectByType<UIManager>().UpdatePlayerHealth(currentHealt);
+        }
     }
 }
