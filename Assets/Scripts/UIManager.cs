@@ -21,10 +21,10 @@ public class UIManager : MonoBehaviour
         // Obtem os dados do Player
         player = FindFirstObjectByType<PlayerController>();
 
-        // Definir o valor máximo da barra de vida igual ao máximo da vida do Player
+        // Define o valor máximo da barra de vida igual ao máximo da vida do Player
         playerHealthBar.maxValue = player.maxHealth;
 
-        // Iniciar HealthBar cheia
+        // Inicia a HealthBar cheia
         playerHealthBar.value = playerHealthBar.maxValue;
 
         // Definir a imagem do Player

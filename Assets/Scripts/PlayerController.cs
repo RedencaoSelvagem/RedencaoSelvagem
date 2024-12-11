@@ -51,7 +51,7 @@ public class PlayerController : MonoBehaviour
         PlayerMove();
         UpdateAnimator();
 
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetKeyDown(KeyCode.J))
         {
 
 
