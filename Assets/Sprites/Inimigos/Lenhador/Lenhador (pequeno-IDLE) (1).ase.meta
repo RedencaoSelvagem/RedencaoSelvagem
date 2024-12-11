@@ -124,8 +124,8 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Frame_0
     originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 7
+    pivot: {x: 0.52631575, y: -0.1060606}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
@@ -145,8 +145,8 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 4}
   - name: Frame_1
     originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 7
+    pivot: {x: 0.5333333, y: -0.1060606}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
@@ -166,8 +166,8 @@ ScriptedImporter:
     uvTransform: {x: 88, y: 79}
   - name: Frame_2
     originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 7
+    pivot: {x: 0.52, y: -0.104477614}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
@@ -187,8 +187,8 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Frame_3
     originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 7
+    pivot: {x: 0.5333333, y: -0.104477614}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
@@ -208,8 +208,8 @@ ScriptedImporter:
     uvTransform: {x: 87, y: 4}
   - name: Frame_4
     originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 7
+    pivot: {x: 0.52631575, y: -0.1060606}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
@@ -240,7 +240,7 @@ ScriptedImporter:
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 2
+        x: 22
         y: 7
         width: 76
         height: 66
@@ -249,7 +249,7 @@ ScriptedImporter:
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
-        x: 2
+        x: 22
         y: 7
         width: 75
         height: 66
@@ -258,7 +258,7 @@ ScriptedImporter:
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
-        x: 3
+        x: 23
         y: 7
         width: 75
         height: 67
@@ -267,7 +267,7 @@ ScriptedImporter:
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
-        x: 2
+        x: 22
         y: 7
         width: 75
         height: 67
@@ -276,7 +276,7 @@ ScriptedImporter:
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
-        x: 2
+        x: 22
         y: 7
         width: 76
         height: 66
@@ -335,4 +335,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 84, y: 94}
+  canvasSize: {x: 124, y: 94}

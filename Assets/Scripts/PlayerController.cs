@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -39,6 +40,45 @@ public class PlayerController : MonoBehaviour
 
         // Obtem e inicializa as propriedades do animator
         playerAnimator = GetComponent<Animator>();
+
+        currentSpeed = playerSpeed;
+
+        currentHealt = maxHealth;
+    }
+
+    void Update()
+    {
+        PlayerMove();
+        UpdateAnimator();
+
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+
+
+            //Iniciar o temporizador
+            if (punchCount < 2)
+            {
+
+                PlayerJab();
+                punchCount++;
+
+                if (!comboControl)
+                {
+                    StartCoroutine(CrossController());
+                }
+
+            }
+
+            else if (punchCount >= 2)
+            {
+
+                PlayerCross();
+                punchCount = 0;
+            }
+
+            //Parando o temporizador 
+            StopCoroutine(CrossController());
+        }
     }
 
     private void FixedUpdate()
@@ -92,13 +132,29 @@ public class PlayerController : MonoBehaviour
         transform.Rotate(0, 180, 0);
     }
 
-    // Update is called once per frame
-    void Update()
+    void PlayerJab()
     {
-        PlayerMove();
-        UpdateAnimator();
+        //Acessa a animação do JAb
+        //Ativa o gatilho de ataque Jab
+        playerAnimator.SetTrigger("isJab");
     }
 
+    void PlayerCross()
+    {
+        playerAnimator.SetTrigger("isCross");
+    }
+
+    IEnumerator CrossController()
+    {
+        comboControl = true;
+
+        yield return new WaitForSeconds(timeCross);
+        punchCount = 0;
+
+        comboControl = false;
+    }
+
+    // Update is called once per frame
     public void TakeDamage(int damage)
     {
         if (!isDead)
