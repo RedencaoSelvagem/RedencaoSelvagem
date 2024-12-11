@@ -134,19 +134,7 @@ ScriptedImporter:
       y: 4
       width: 90
       height: 128
-<<<<<<< HEAD
-    spriteID: f20b5c72ecfbeb9429fa5af8e73a5a3d
-=======
-<<<<<<< HEAD
-    spriteID: 90ec90c59a437aa41870099f9b77667d
-=======
-<<<<<<< HEAD
-    spriteID: 7fc39838e23add44d951f69d085ac83c
-=======
-    spriteID: 10ef0e0c86ace724b8ef99e6986c14e5
->>>>>>> b2db6f4203952d71a4bd1f3bcf7678a4650257da
->>>>>>> 9095fdeff5fc44db0d92b21377541f5156e39dcf
->>>>>>> d83fa76b9b9dc3b25ad7c1acd1ab9ed138db2b9d
+    spriteID: c2a6b63339406d145bd93231fc430441
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,19 +160,7 @@ ScriptedImporter:
         y: 0
         width: 90
         height: 128
-<<<<<<< HEAD
-      spriteId: f20b5c72ecfbeb9429fa5af8e73a5a3d
-=======
-<<<<<<< HEAD
-      spriteId: 90ec90c59a437aa41870099f9b77667d
-=======
-<<<<<<< HEAD
-      spriteId: 7fc39838e23add44d951f69d085ac83c
-=======
-      spriteId: 10ef0e0c86ace724b8ef99e6986c14e5
->>>>>>> b2db6f4203952d71a4bd1f3bcf7678a4650257da
->>>>>>> 9095fdeff5fc44db0d92b21377541f5156e39dcf
->>>>>>> d83fa76b9b9dc3b25ad7c1acd1ab9ed138db2b9d
+      spriteId: c2a6b63339406d145bd93231fc430441
     linkedCells: []
     parentIndex: -1
   platformSettings:
