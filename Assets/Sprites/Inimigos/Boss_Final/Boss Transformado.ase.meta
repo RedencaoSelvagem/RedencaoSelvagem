@@ -134,27 +134,7 @@ ScriptedImporter:
       y: 4
       width: 114
       height: 124
-<<<<<<< HEAD
-    spriteID: 130150e178631f647af0bc376273fb9f
-=======
-<<<<<<< HEAD
-    spriteID: 68d4fb8840361a349840634fdc77123e
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    spriteID: 760e1ce7325da5a428103e4781dd0f0c
-=======
-    spriteID: be462023e73fa754da2516d650e7c6ad
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-    spriteID: dceb1cda74dfd6a41b78c293c662cccf
-=======
-    spriteID: 67c4b8d2288537144adeed96cf535090
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
->>>>>>> 6e9a1fabd706045e7d3f1702a324e4b5930f47e9
->>>>>>> 0cacbe3c6ba5e631b4a708c2fac151b82625cf2c
+    spriteID: 03f26a98fc019ce4c886b3a328487b48
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -180,27 +160,7 @@ ScriptedImporter:
         y: 3
         width: 114
         height: 124
-<<<<<<< HEAD
-      spriteId: 130150e178631f647af0bc376273fb9f
-=======
-<<<<<<< HEAD
-      spriteId: 68d4fb8840361a349840634fdc77123e
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-      spriteId: 760e1ce7325da5a428103e4781dd0f0c
-=======
-      spriteId: be462023e73fa754da2516d650e7c6ad
->>>>>>> 1dc64773659713e0e3d8a23e1b9b7f89939b6fa6
-=======
-<<<<<<< HEAD
-      spriteId: dceb1cda74dfd6a41b78c293c662cccf
-=======
-      spriteId: 67c4b8d2288537144adeed96cf535090
->>>>>>> 71aa9a6877684db9ed7d29556d6252906a9cd625
->>>>>>> 7f9c863fc3fcc5d32e0bc464cfc3a8c533f9a860
->>>>>>> 6e9a1fabd706045e7d3f1702a324e4b5930f47e9
->>>>>>> 0cacbe3c6ba5e631b4a708c2fac151b82625cf2c
+      spriteId: 03f26a98fc019ce4c886b3a328487b48
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -216,45 +176,6 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-<<<<<<< HEAD
-=======
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 1
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: WebGL
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
->>>>>>> 0cacbe3c6ba5e631b4a708c2fac151b82625cf2c
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
