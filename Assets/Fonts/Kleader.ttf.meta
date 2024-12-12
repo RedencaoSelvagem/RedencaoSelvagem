@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ffc03a37764817b42b5e4cfed32f1054
+guid: a3d81938a92876847ad6182d2d8849b7
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Vollkorn SC
+  - Kleader
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
